@@ -40,7 +40,7 @@ const JulianIdl = {
 
 - :computer: My main languages are : [Javascript](https://www.javascript.com), [Node.js](https://nodejs.org/en/) and [Python](https://www.python.org)
 - :school: I'm currently learning : [Kotlin](https://kotlinlang.org), [fastify](https://www.fastify.io) and [Vuetify](https://vuetifyjs.com/en/)
-- :dart: Fun fact : I drink water to stay hydrated
+- :dart: Fun fact : I sleep to set my respawn point!
 
 ## Where To Find Me -
 
