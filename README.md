@@ -15,7 +15,7 @@ Hi there <img src="https://cdn.discordapp.com/emojis/792032838500614165.gif" wid
 ```javascript
 const JulianIdl = {
     pronouns: "He" | "Him",
-    personality: "An ambivert"
+    personality: "An ambivert",
     hobbies: ["Table Tennis", "Violin", "Anime", "Developing"],
     code: ["Javascript", "Java", "Python", "Kotlin", "php", "Git", "C", "HTML", "CSS", "C++", "React"],
     askMeAbout: ["web dev", "software dev", "game dev", "bot dev"],
