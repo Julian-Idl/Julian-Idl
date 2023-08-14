@@ -10,7 +10,7 @@
 
 ## Info -
 
-Hi there, I'm **Julian-Idl** a Freelance Software Developer.
+Hi there https://cdn.discordapp.com/emojis/792032838500614165.gif , I'm **Julian-Idl** a Freelance Software Developer.
 
 ```javascript
 const JulianIdl = {
