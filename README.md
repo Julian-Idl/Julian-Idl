@@ -10,11 +10,13 @@
 
 ## Info -
 
-Hi there <img src="https://cdn.discordapp.com/emojis/792032838500614165.gif" /> , I'm **Julian-Idl** a Freelance Software Developer.
+Hi there <img src="https://cdn.discordapp.com/emojis/792032838500614165.gif" width="20" height="15" /> , I'm **Julian-Idl** a Freelance Software Developer.
 
 ```javascript
 const JulianIdl = {
     pronouns: "He" | "Him",
+    personality: "An ambivert"
+    hobbies: ["Table Tennis", "Violin", "Anime", "Developing"] 
     code: ["Javascript", "Java", "Python", "Kotlin", "php", "Git", "C", "HTML", "CSS", "C++", "React"],
     askMeAbout: ["web dev", "software dev", "game dev", "bot dev"],
     technologies: {
@@ -33,14 +35,13 @@ const JulianIdl = {
         misc: ["Firebase", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Progressive web applications", "Clean Software applications", "Advanced Discord Bots"],
-    currentFocus: "Web Development",
-    funFact: "Error Go Brrrrrrrr!"
+    funFact: "I am a weeb",
 };
 ```
 
 - :computer: My main languages are : [Javascript](https://www.javascript.com), [Node.js](https://nodejs.org/en/) and [Python](https://www.python.org)
 - :school: I'm currently learning : [Kotlin](https://kotlinlang.org), [fastify](https://www.fastify.io) and [Vuetify](https://vuetifyjs.com/en/)
-- :dart: Fun fact : I sleep to set my respawn point!
+- :dart: Fun fact : Error Go Brrrrrrrr!!
 
 ## Where To Find Me -
 
