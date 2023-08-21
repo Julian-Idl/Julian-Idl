@@ -10,7 +10,7 @@
 
 ## Info -
 
-Hi there <img src="https://cdn.discordapp.com/emojis/792032838500614165.gif" width="20" height="15" /> , I'm **Julian-Idl** a Freelance Software Developer.
+Hi there <img src="https://github.com/Julian-Idl/Julian-Idl/blob/main/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3739323033323833383530303631343136352e676966.gif" /> , I'm **Julian-Idl** a Freelance Software Developer.
 
 ```javascript
 const JulianIdl = {
